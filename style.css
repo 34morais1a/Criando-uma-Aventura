@@ -1,7 +1,7 @@
-body{
-    background-color:rgba(3, 3, 58, 0.959) ;
+body {
+    background-color: #1D4221;
     color: white;
-    font-family: "Story Script", sans-serif;
+    font-family: "Bai Jamjuree", sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,8 +10,8 @@ body{
 }
 
 button {
-    background-color: rgb(49, 39, 184);
-    color:azure;
+    background-color: rgba(3, 3, 58, 0.959);
+    color: white;
     font-family: "Story Script", sans-serif;
 }
 
@@ -25,9 +25,9 @@ button {
 
 main {
     text-align: center;
-    max-width: 80%;
+    max-width: 90%;
 }
 
-img{
-   max-width: 70%;
+img {
+    max-width: 90%;
 }
